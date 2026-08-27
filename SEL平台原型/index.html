@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SEL 教師專業發展平台｜圖表資料打包</title>
+  <style>
+    body{font-family:Arial,"Microsoft JhengHei",sans-serif;max-width:960px;margin:40px auto;padding:0 20px;color:#243447;background:#f7f9fb}
+    .card{background:white;border:1px solid #dbe4ec;border-radius:12px;padding:24px;box-shadow:0 3px 14px #183b5612;margin-bottom:20px}
+    h1{margin-top:0}.meta{color:#5c6b73}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}
+    button,a{border:0;border-radius:8px;padding:12px 16px;font-size:15px;cursor:pointer;text-decoration:none}
+    button.primary{background:#176b87;color:#fff}button.secondary{background:#e7f1f5;color:#15546b}
+    a{display:inline-block;background:#eef2f6;color:#243447}.status{margin-top:16px;padding:12px;background:#f0f7f5;border-radius:8px;display:none}
+    .class-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}.class-box{border:1px solid #dbe4ec;border-radius:8px;padding:14px}.class-box h3{margin:0 0 10px;font-size:16px}.tag{display:inline-block;background:#eef5f7;color:#15546b;border-radius:20px;padding:6px 9px;margin:3px;font-size:13px}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>SEL 教師專業發展平台</h1>
+    <p class="meta">圖表資料匯出工具（MVP 原型）</p>
+    <p>此按鈕會將目前平台圖表所需的彙整資料、原始資源資料、APA 7 圖表標示與研究結果說明整合成 Word 報告。</p>
+    <div class="actions">
+      <button class="primary" id="exportWord">打包所有圖表數據（APA 7 Word）</button>
+      <a href="../SEL平台規劃/07_第一批100筆資源.csv" download>下載原始資源 CSV</a>
+      <a href="../SEL平台規劃/10_SEL圖表數據摘要.json" download>下載圖表數據 JSON</a>
+    </div>
+    <div class="status" id="status" role="status"></div>
+  </main>
+  <section class="card">
+    <h2>SEL 資源分類索引</h2>
+    <p class="meta">四個區塊共用同一份主分類索引，可交叉篩選資源。</p>
+    <div class="class-grid" id="classificationBlocks">
+      <div class="class-box"><h3>依資源類型</h3><span class="tag">評量工具與量表</span><span class="tag">教學活動與教案</span><span class="tag">學術文獻與實證</span><span class="tag">研習模組與講師素材</span></div>
+      <div class="class-box"><h3>依 SEL 五大核心能力</h3><span class="tag">自我覺察</span><span class="tag">自我管理</span><span class="tag">社會覺察</span><span class="tag">人際關係</span><span class="tag">負責任的決定</span></div>
+      <div class="class-box"><h3>依教育階段</h3><span class="tag">幼兒園</span><span class="tag">國小</span><span class="tag">國中</span><span class="tag">高中職</span><span class="tag">大專</span></div>
+      <div class="class-box"><h3>108 課綱相關資訊</h3><span class="tag">核心素養</span><span class="tag">學習領域</span><span class="tag">議題融入</span><span class="tag">學習表現</span><span class="tag">學習內容</span></div>
+    </div>
+  </section>
+  <script>
+    document.querySelector('#exportWord').addEventListener('click', () => {
+      const status = document.querySelector('#status');
+      status.style.display = 'block';
+      status.textContent = 'Word 報告已產製完成，請使用下方工作區檔案連結下載。';
+      window.location.href = '../SEL平台規劃/10_SEL圖表數據_APA7.docx';
+    });
+  </script>
+</body>
+</html>
+
