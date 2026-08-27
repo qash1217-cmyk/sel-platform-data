@@ -2,7 +2,8 @@
   {
     "resource_id": "SEL-001",
     "title": "CASEL SEL Framework",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的核心概念、能力面向與學校實施脈絡，提供教師建立共同語言及規劃課程的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -16,7 +17,8 @@
   {
     "resource_id": "SEL-002",
     "title": "CASEL Systemic Implementation",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "說明如何把社會情緒學習連結到教室、學校、家庭與社區，協助學校規劃一致而持續的推動策略。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -30,7 +32,8 @@
   {
     "resource_id": "SEL-003",
     "title": "CASEL Program Guide",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整不同社會情緒學習方案的內容與證據資訊，便於教育工作者比較方案特色、實施條件與研究支持。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -44,7 +47,8 @@
   {
     "resource_id": "SEL-004",
     "title": "CASEL Explicit SEL Instruction",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我管理，適用於國小、國中。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我管理",
     "education_stage": "國小;國中",
@@ -58,7 +62,8 @@
   {
     "resource_id": "SEL-005",
     "title": "CASEL Cooperative Learning",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於國小、國中。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "國小;國中",
@@ -72,7 +77,8 @@
   {
     "resource_id": "SEL-006",
     "title": "CASEL Project-based Learning",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "負責任的決定",
     "education_stage": "國中;高中職",
@@ -86,7 +92,8 @@
   {
     "resource_id": "SEL-007",
     "title": "CASEL Adult SEL",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -100,7 +107,8 @@
   {
     "resource_id": "SEL-008",
     "title": "CASEL Family Partnership",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -114,7 +122,8 @@
   {
     "resource_id": "SEL-009",
     "title": "CASEL Community Partnership",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -128,7 +137,8 @@
   {
     "resource_id": "SEL-010",
     "title": "CASEL Equity and SEL",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -142,7 +152,8 @@
   {
     "resource_id": "SEL-011",
     "title": "OECD SSES Overview",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "介紹 OECD 社會與情緒技能研究的測量架構、背景變項與結果解讀方向，供研究與政策規劃參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國中;高中職",
@@ -156,7 +167,8 @@
   {
     "resource_id": "SEL-012",
     "title": "OECD SSES Framework",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的核心概念、能力面向與學校實施脈絡，提供教師建立共同語言及規劃課程的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國中;高中職",
@@ -170,7 +182,8 @@
   {
     "resource_id": "SEL-013",
     "title": "OECD SSES Measurement",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "介紹 OECD 社會與情緒技能研究的測量架構、背景變項與結果解讀方向，供研究與政策規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國中;高中職",
@@ -184,7 +197,8 @@
   {
     "resource_id": "SEL-014",
     "title": "OECD SSES Student Context",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "介紹 OECD 社會與情緒技能研究的測量架構、背景變項與結果解讀方向，供研究與政策規劃參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "國中;高中職",
@@ -198,7 +212,8 @@
   {
     "resource_id": "SEL-015",
     "title": "OECD SSES Teacher Context",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "介紹 OECD 社會與情緒技能研究的測量架構、背景變項與結果解讀方向，供研究與政策規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "國中;高中職",
@@ -212,7 +227,8 @@
   {
     "resource_id": "SEL-016",
     "title": "OECD SSES School Context",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "介紹 OECD 社會與情緒技能研究的測量架構、背景變項與結果解讀方向，供研究與政策規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國中;高中職",
@@ -226,7 +242,8 @@
   {
     "resource_id": "SEL-017",
     "title": "OECD Skills and Well-being",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -240,7 +257,8 @@
   {
     "resource_id": "SEL-018",
     "title": "OECD Skills and Academic Outcomes",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "負責任的決定",
     "education_stage": "國中;高中職",
@@ -254,7 +272,8 @@
   {
     "resource_id": "SEL-019",
     "title": "OECD Skills and Equity",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -268,7 +287,8 @@
   {
     "resource_id": "SEL-020",
     "title": "OECD Country Data",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國中;高中職",
@@ -282,7 +302,8 @@
   {
     "resource_id": "SEL-021",
     "title": "Harvard EASEL Lab",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -296,7 +317,8 @@
   {
     "resource_id": "SEL-022",
     "title": "EASEL SEL Lexicon",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -310,7 +332,8 @@
   {
     "resource_id": "SEL-023",
     "title": "EASEL Research Library",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -324,7 +347,8 @@
   {
     "resource_id": "SEL-024",
     "title": "EASEL Measurement Resources",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -338,7 +362,8 @@
   {
     "resource_id": "SEL-025",
     "title": "EASEL Adult SEL",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -352,7 +377,8 @@
   {
     "resource_id": "SEL-026",
     "title": "EASEL Emotion Knowledge",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小",
@@ -366,7 +392,8 @@
   {
     "resource_id": "SEL-027",
     "title": "EASEL Relationships",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -380,7 +407,8 @@
   {
     "resource_id": "SEL-028",
     "title": "EASEL School Climate",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -394,7 +422,8 @@
   {
     "resource_id": "SEL-029",
     "title": "EASEL Equity",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -408,7 +437,8 @@
   {
     "resource_id": "SEL-030",
     "title": "EASEL Evidence Briefs",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供社會情緒學習相關術語、理論與研究索引，協助教師從概念理解延伸到課堂實踐。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -422,7 +452,8 @@
   {
     "resource_id": "SEL-031",
     "title": "RULER Approach",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -436,7 +467,8 @@
   {
     "resource_id": "SEL-032",
     "title": "RULER Charter",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於幼兒園、國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小",
@@ -450,7 +482,8 @@
   {
     "resource_id": "SEL-033",
     "title": "RULER Mood Meter",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小",
@@ -464,7 +497,8 @@
   {
     "resource_id": "SEL-034",
     "title": "RULER Meta-Moment",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我管理，適用於國小、國中。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我管理",
     "education_stage": "國小;國中",
@@ -478,7 +512,8 @@
   {
     "resource_id": "SEL-035",
     "title": "RULER Blueprint",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "國中;高中職",
@@ -492,7 +527,8 @@
   {
     "resource_id": "SEL-036",
     "title": "RULER Teacher Learning",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -506,7 +542,8 @@
   {
     "resource_id": "SEL-037",
     "title": "RULER School Implementation",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -520,7 +557,8 @@
   {
     "resource_id": "SEL-038",
     "title": "RULER Family Engagement",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -534,7 +572,8 @@
   {
     "resource_id": "SEL-039",
     "title": "RULER Emotion Vocabulary",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小",
@@ -548,7 +587,8 @@
   {
     "resource_id": "SEL-040",
     "title": "RULER Reflection",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "以情緒識讀、理解、命名、表達與調節為主軸，提供建立情緒語言與支持性班級文化的教學思路。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -562,7 +602,8 @@
   {
     "resource_id": "SEL-041",
     "title": "EEF SEL Guidance",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -576,7 +617,8 @@
   {
     "resource_id": "SEL-042",
     "title": "EEF Explicit Teaching",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我管理，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我管理",
     "education_stage": "國小",
@@ -590,7 +632,8 @@
   {
     "resource_id": "SEL-043",
     "title": "EEF Classroom Practice",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "國小",
@@ -604,7 +647,8 @@
   {
     "resource_id": "SEL-044",
     "title": "EEF Whole-school Approach",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -618,7 +662,8 @@
   {
     "resource_id": "SEL-045",
     "title": "EEF Professional Development",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "國小",
@@ -632,7 +677,8 @@
   {
     "resource_id": "SEL-046",
     "title": "EEF Assessment and Adaptation",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -646,7 +692,8 @@
   {
     "resource_id": "SEL-047",
     "title": "EEF Family Engagement",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "國小",
@@ -660,7 +707,8 @@
   {
     "resource_id": "SEL-048",
     "title": "EEF Implementation Conditions",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -674,7 +722,8 @@
   {
     "resource_id": "SEL-049",
     "title": "EEF Evidence Interpretation",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -688,7 +737,8 @@
   {
     "resource_id": "SEL-050",
     "title": "EEF Adaptation Checklist",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於國小。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習的教學與實施建議，聚焦明確教學、課堂實踐、成人學習及全校推動的條件。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "國小",
@@ -702,7 +752,8 @@
   {
     "resource_id": "SEL-051",
     "title": "UNESCO School Well-being",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -716,7 +767,8 @@
   {
     "resource_id": "SEL-052",
     "title": "UNESCO Mental Health and Education",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -730,7 +782,8 @@
   {
     "resource_id": "SEL-053",
     "title": "UNESCO Inclusion",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -744,7 +797,8 @@
   {
     "resource_id": "SEL-054",
     "title": "UNESCO Teacher Support",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -758,7 +812,8 @@
   {
     "resource_id": "SEL-055",
     "title": "UNESCO Safe Learning Environment",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -772,7 +827,8 @@
   {
     "resource_id": "SEL-056",
     "title": "UNESCO Education Equity",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -786,7 +842,8 @@
   {
     "resource_id": "SEL-057",
     "title": "UNESCO Family and Community",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -800,7 +857,8 @@
   {
     "resource_id": "SEL-058",
     "title": "UNESCO Student Voice",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -814,7 +872,8 @@
   {
     "resource_id": "SEL-059",
     "title": "UNESCO Teacher Well-being",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -828,7 +887,8 @@
   {
     "resource_id": "SEL-060",
     "title": "UNESCO School Leadership",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "從教育福祉、心理健康、包容與公平的角度，說明學校如何建立安全且支持學習的環境。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -842,7 +902,8 @@
   {
     "resource_id": "SEL-061",
     "title": "US ED SEL and Mental Health",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -856,7 +917,8 @@
   {
     "resource_id": "SEL-062",
     "title": "US ED Educator Support",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -870,7 +932,8 @@
   {
     "resource_id": "SEL-063",
     "title": "US ED School Climate",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -884,7 +947,8 @@
   {
     "resource_id": "SEL-064",
     "title": "US ED Student Mental Health",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -898,7 +962,8 @@
   {
     "resource_id": "SEL-065",
     "title": "US ED Family Engagement",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -912,7 +977,8 @@
   {
     "resource_id": "SEL-066",
     "title": "US ED Trauma-informed Support",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -926,7 +992,8 @@
   {
     "resource_id": "SEL-067",
     "title": "US ED Positive School Culture",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -940,7 +1007,8 @@
   {
     "resource_id": "SEL-068",
     "title": "US ED Professional Learning",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -954,7 +1022,8 @@
   {
     "resource_id": "SEL-069",
     "title": "US ED Equity and Belonging",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -968,7 +1037,8 @@
   {
     "resource_id": "SEL-070",
     "title": "US ED Implementation Examples",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "彙整學校社會情緒學習、心理健康與教育工作者支持的政策和實務方向，提供學校系統規劃參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -982,7 +1052,8 @@
   {
     "resource_id": "SEL-071",
     "title": "教育部 SEL 政策與計畫",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -996,7 +1067,8 @@
   {
     "resource_id": "SEL-072",
     "title": "教育部 友善校園",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1010,7 +1082,8 @@
   {
     "resource_id": "SEL-073",
     "title": "教育部 學生輔導",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1024,7 +1097,8 @@
   {
     "resource_id": "SEL-074",
     "title": "教育部 正向管教",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1038,7 +1112,8 @@
   {
     "resource_id": "SEL-075",
     "title": "教育部 生命教育",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1052,7 +1127,8 @@
   {
     "resource_id": "SEL-076",
     "title": "教育部 品德教育",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1066,7 +1142,8 @@
   {
     "resource_id": "SEL-077",
     "title": "教育部 教師專業發展",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1080,7 +1157,8 @@
   {
     "resource_id": "SEL-078",
     "title": "教育部 特殊教育與融合",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1094,7 +1172,8 @@
   {
     "resource_id": "SEL-079",
     "title": "教育部 家庭教育",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1108,7 +1187,8 @@
   {
     "resource_id": "SEL-080",
     "title": "教育部 校園心理健康",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供臺灣教育政策、學生輔導、友善校園、正向管教與教師專業發展相關資訊，協助連結 SEL 與本土教育脈絡。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1122,7 +1202,8 @@
   {
     "resource_id": "SEL-081",
     "title": "國教院 十二年國教課綱",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1136,7 +1217,8 @@
   {
     "resource_id": "SEL-082",
     "title": "國教院 核心素養",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1150,7 +1232,8 @@
   {
     "resource_id": "SEL-083",
     "title": "國教院 議題融入",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1164,7 +1247,8 @@
   {
     "resource_id": "SEL-084",
     "title": "國教院 生命教育議題",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 負責任的決定，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "負責任的決定",
     "education_stage": "國中;高中職",
@@ -1178,7 +1262,8 @@
   {
     "resource_id": "SEL-085",
     "title": "國教院 品德教育議題",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 社會覺察，適用於國小、國中。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "社會覺察",
     "education_stage": "國小;國中",
@@ -1192,7 +1277,8 @@
   {
     "resource_id": "SEL-086",
     "title": "國教院 家庭教育議題",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1206,7 +1292,8 @@
   {
     "resource_id": "SEL-087",
     "title": "國教院 性別平等議題",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1220,7 +1307,8 @@
   {
     "resource_id": "SEL-088",
     "title": "國教院 人權教育議題",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 社會覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "社會覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1234,7 +1322,8 @@
   {
     "resource_id": "SEL-089",
     "title": "國教院 教育研究資料",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "純文獻與文字資料",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1248,7 +1337,8 @@
   {
     "resource_id": "SEL-090",
     "title": "國教院 教材與教學資源",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理十二年國民基本教育課綱、核心素養、議題融入及教育研究資料，作為 SEL 課程對照與教學設計的基礎。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1262,7 +1352,8 @@
   {
     "resource_id": "SEL-091",
     "title": "全國教師在職進修課程",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1276,7 +1367,8 @@
   {
     "resource_id": "SEL-092",
     "title": "教師 SEL 入門研習",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我覺察，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我覺察",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1290,7 +1382,8 @@
   {
     "resource_id": "SEL-093",
     "title": "教師情緒與壓力調節研習",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 自我管理，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "自我管理",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1304,7 +1397,8 @@
   {
     "resource_id": "SEL-094",
     "title": "班級經營與正向管教研習",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 人際關係，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "人際關係",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1318,7 +1412,8 @@
   {
     "resource_id": "SEL-095",
     "title": "修復式實踐研習",
-    "abstract_summary": "本資源屬於「研習模組與講師素材」，聚焦 人際關係，適用於國中、高中職。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "研習模組與講師素材",
     "sel_core_competency": "人際關係",
     "education_stage": "國中;高中職",
@@ -1332,7 +1427,8 @@
   {
     "resource_id": "SEL-096",
     "title": "教師專業學習社群案例",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "提供教師研習與專業成長課程的查詢入口，可依課程主題、辦理單位與研習資訊進一步查核。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1346,7 +1442,8 @@
   {
     "resource_id": "SEL-097",
     "title": "縣市 SEL 推動計畫",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1360,7 +1457,8 @@
   {
     "resource_id": "SEL-098",
     "title": "學校 SEL 行動研究",
-    "abstract_summary": "本資源屬於「學術文獻與實證」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "記錄教育現場的推動背景、實施方式與反思，提供教師與學校規劃 SEL 行動時參考與調整。",
+    "medium": "影音與網站資源",
     "resource_type": "學術文獻與實證",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1374,7 +1472,8 @@
   {
     "resource_id": "SEL-099",
     "title": "臺灣 SEL 教案與公開授課",
-    "abstract_summary": "本資源屬於「教學活動與教案」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "整理社會情緒學習相關的概念、研究或教學實踐，提供教師進行專業學習、課程設計與教學反思時參考。",
+    "medium": "影音與網站資源",
     "resource_type": "教學活動與教案",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
@@ -1388,7 +1487,8 @@
   {
     "resource_id": "SEL-100",
     "title": "臺灣 SEL 評量與教師反思工具",
-    "abstract_summary": "本資源屬於「評量工具與量表」，聚焦 自我覺察、自我管理、社會覺察、人際關係、負責任的決定，適用於幼兒園、國小、國中、高中職、大專。可作為教師專業學習、課堂設計或學校推動的參考；正式使用前請依查核狀態確認原始來源、授權與在地適切性。",
+    "abstract_summary": "聚焦教師專業學習與教學實踐，協助教育工作者將 SEL 概念轉化為可操作的課堂或學校行動。",
+    "medium": "影音與網站資源",
     "resource_type": "評量工具與量表",
     "sel_core_competency": "自我覺察;自我管理;社會覺察;人際關係;負責任的決定",
     "education_stage": "幼兒園;國小;國中;高中職;大專",
