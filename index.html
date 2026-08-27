@@ -26,8 +26,10 @@
     const blocks=document.querySelector('#blocks'), results=document.querySelector('#results'), hint=document.querySelector('#hint');
     function renderBlocks(){blocks.innerHTML=labels.map(([title,key])=>{const vals=Object.entries(index[key]||{});return `<article class="card"><h2>${title}</h2>${vals.map(([v,ids])=>`<button class="tag" data-filter="${v}">${v} <span>(${ids.length})</span></button>`).join('')}</article>`}).join('');document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>show(b.dataset.filter));}
     async function load(){try{const r=await fetch('SEL平台規劃/17_SEL分類索引.json');index=await r.json();renderBlocks();}catch(e){blocks.innerHTML='<article class="card"><p>分類索引載入中，請稍後重新整理。</p></article>';}}
-    function show(term){hint.textContent=`目前篩選：${term}（請至主資料索引查看完整紀錄）`;const ids=[];for(const group of Object.values(index))for(const [k,v] of Object.entries(group))if(k===term)ids.push(...v);results.innerHTML=[...new Set(ids)].map(id=>`<div class="resource"><a href="SEL平台規劃/12_SEL主分類索引.csv">${id}</a><span class="badge">分類索引</span></div>`).join('')||'<p class="meta">沒有符合的索引。</p>';}
-    document.querySelector('#search').onclick=()=>show(document.querySelector('#q').value.trim());load();
+    let cards=[];
+    async function loadCards(){try{cards=await (await fetch('SEL平台規劃/18_SEL資源摘要索引.json')).json();}catch(e){cards=[];}}
+    function show(term){const q=(term||'').toLowerCase();let ids=[];for(const group of Object.values(index))for(const [k,v] of Object.entries(group))if(k===term)ids.push(...v);let selected=q?[...new Set(cards.filter(c=>[c.title,c.abstract_summary,c.resource_type,c.sel_core_competency,c.education_stage,c.source].join(' ').toLowerCase().includes(q)).map(c=>c.resource_id))]:[...new Set(ids)];hint.textContent=term?`目前結果：${selected.length} 筆`:'請選擇分類標籤或輸入關鍵字。';results.innerHTML=selected.map(id=>{const c=cards.find(x=>x.resource_id===id);return c?`<article class="resource"><a href="${c.source_url}" target="_blank" rel="noopener">${c.title}</a><span class="badge">${c.resource_id}</span><p class="meta">${c.abstract_summary}</p><p class="meta">${c.resource_type}｜${c.education_stage}｜${c.verification_status}</p></article>`:`<div class="resource">${id}</div>`}).join('')||'<p class="meta">沒有符合的索引。</p>';}
+    document.querySelector('#search').onclick=()=>show(document.querySelector('#q').value.trim());Promise.all([load(),loadCards()]);
   </script>
 </body>
 </html>
