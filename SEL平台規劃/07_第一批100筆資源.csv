@@ -1,0 +1,102 @@
+id,title,category,education_stage,sel_domain,source,url,license_or_access,verification_status,notes
+SEL-001,CASEL SEL Framework,框架,跨階段,五大能力,CASEL,https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/,公開閱讀,已核對入口,核心分類架構
+SEL-002,CASEL Systemic Implementation,政策與系統,跨階段,全校性實施,CASEL,https://casel.org/systemic-implementation/,公開閱讀,已核對入口,學校整體推動
+SEL-003,CASEL Program Guide,方案與課程,跨階段,五大能力,CASEL,https://pg.casel.org/,公開閱讀,已核對入口,方案證據與比較入口
+SEL-004,CASEL Explicit SEL Instruction,教學策略,國小／國中,自我管理,CASEL,https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/,公開閱讀,待直接頁面查核,由框架延伸建卡
+SEL-005,CASEL Cooperative Learning,教學策略,國小／國中,人際關係,CASEL,https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/,公開閱讀,待直接頁面查核,合作學習情境
+SEL-006,CASEL Project-based Learning,教學策略,國中／高中,負責任決定,CASEL,https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/,公開閱讀,待直接頁面查核,課程融入情境
+SEL-007,CASEL Adult SEL,教師專業,跨階段,教師自我覺察,CASEL,https://casel.org/systemic-implementation/,公開閱讀,待直接頁面查核,教師與成人學習
+SEL-008,CASEL Family Partnership,家庭合作,跨階段,社會覺察,CASEL,https://casel.org/systemic-implementation/,公開閱讀,待直接頁面查核,親師合作
+SEL-009,CASEL Community Partnership,社區合作,跨階段,社會覺察,CASEL,https://casel.org/systemic-implementation/,公開閱讀,待直接頁面查核,社區資源連結
+SEL-010,CASEL Equity and SEL,文化與公平,跨階段,社會覺察,CASEL,https://casel.org/fundamentals-of-sel/what-is-the-casel-framework/,公開閱讀,待直接頁面查核,文化回應與公平
+SEL-011,OECD SSES Overview,研究與證據,國中／高中,跨領域,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,已核對入口,國際研究入口
+SEL-012,OECD SSES Framework,框架,國中／高中,跨領域,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,技能分類
+SEL-013,OECD SSES Measurement,評量,國中／高中,跨領域,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,測量設計參考
+SEL-014,OECD SSES Student Context,研究與證據,國中／高中,社會覺察,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,學生背景變項
+SEL-015,OECD SSES Teacher Context,教師專業,國中／高中,教師自我覺察,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,教師相關變項
+SEL-016,OECD SSES School Context,政策與系統,國中／高中,全校性實施,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,學校脈絡
+SEL-017,OECD Skills and Well-being,研究與證據,跨階段,自我管理,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,福祉與學習
+SEL-018,OECD Skills and Academic Outcomes,研究與證據,國中／高中,負責任決定,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,結果變項
+SEL-019,OECD Skills and Equity,研究與證據,跨階段,社會覺察,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,公平議題
+SEL-020,OECD Country Data,研究與證據,國中／高中,跨領域,OECD,https://www.oecd.org/en/about/programmes/social-and-emotional-skills-study.html,公開閱讀,待直接頁面查核,不可直接作個人排名
+SEL-021,Harvard EASEL Lab,研究與證據,跨階段,跨領域,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,已核對入口,研究與詞彙入口
+SEL-022,EASEL SEL Lexicon,框架,跨階段,跨領域,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,術語對照
+SEL-023,EASEL Research Library,研究與證據,跨階段,跨領域,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,研究索引
+SEL-024,EASEL Measurement Resources,評量,跨階段,跨領域,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,量表與工具索引
+SEL-025,EASEL Adult SEL,教師專業,跨階段,教師自我覺察,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,成人 SEL
+SEL-026,EASEL Emotion Knowledge,教學策略,幼兒／國小,自我覺察,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,情緒知識
+SEL-027,EASEL Relationships,教學策略,跨階段,人際關係,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,關係與互動
+SEL-028,EASEL School Climate,政策與系統,跨階段,社會覺察,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,學校氣候
+SEL-029,EASEL Equity,文化與公平,跨階段,社會覺察,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,公平與文化
+SEL-030,EASEL Evidence Briefs,研究與證據,跨階段,跨領域,Harvard EASEL,https://easel.gse.harvard.edu/,公開閱讀,待直接頁面查核,證據摘要
+SEL-031,RULER Approach,教師專業,跨階段,自我覺察,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,已核對入口,情緒識讀取向
+SEL-032,RULER Charter,教學活動,幼兒／國小,人際關係,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待直接頁面查核,班級共同規範
+SEL-033,RULER Mood Meter,教學活動,幼兒／國小,自我覺察,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待授權查核,情緒辨識工具
+SEL-034,RULER Meta-Moment,教學活動,國小／國中,自我管理,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待授權查核,情緒調節策略
+SEL-035,RULER Blueprint,教學活動,國中／高中,人際關係,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待授權查核,衝突與關係修復
+SEL-036,RULER Teacher Learning,教師專業,跨階段,教師自我覺察,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待直接頁面查核,教師培訓
+SEL-037,RULER School Implementation,政策與系統,跨階段,全校性實施,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待直接頁面查核,全校推動
+SEL-038,RULER Family Engagement,家庭合作,跨階段,社會覺察,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待直接頁面查核,家庭參與
+SEL-039,RULER Emotion Vocabulary,教學活動,幼兒／國小,自我覺察,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待授權查核,情緒詞彙
+SEL-040,RULER Reflection,反思工具,跨階段,自我管理,Yale RULER,https://rulerapproach.org/,部分公開／可能需註冊,待直接頁面查核,教師與學生反思
+SEL-041,EEF SEL Guidance,研究與證據,國小,跨領域,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,已核對入口,教學實施建議
+SEL-042,EEF Explicit Teaching,教學策略,國小,自我管理,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,明確教學
+SEL-043,EEF Classroom Practice,教學策略,國小,人際關係,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,課堂實踐
+SEL-044,EEF Whole-school Approach,政策與系統,國小,全校性實施,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,全校策略
+SEL-045,EEF Professional Development,教師專業,國小,教師自我覺察,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,教師支持
+SEL-046,EEF Assessment and Adaptation,評量,國小,跨領域,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,形成性評估
+SEL-047,EEF Family Engagement,家庭合作,國小,社會覺察,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,家庭連結
+SEL-048,EEF Implementation Conditions,政策與系統,國小,全校性實施,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,實施條件
+SEL-049,EEF Evidence Interpretation,研究與證據,國小,跨領域,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,證據判讀
+SEL-050,EEF Adaptation Checklist,審查工具,國小,跨領域,EEF,https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/improving-social-and-emotional-learning-in-primary-schools,公開閱讀,待直接頁面查核,在地化檢核
+SEL-051,UNESCO School Well-being,政策與系統,跨階段,社會覺察,UNESCO,https://www.unesco.org/en/education,公開閱讀,已核對入口,學校福祉
+SEL-052,UNESCO Mental Health and Education,政策與系統,跨階段,自我管理,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,心理健康支持
+SEL-053,UNESCO Inclusion,文化與公平,跨階段,社會覺察,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,教育包容
+SEL-054,UNESCO Teacher Support,教師專業,跨階段,教師自我覺察,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,教師支持
+SEL-055,UNESCO Safe Learning Environment,政策與系統,跨階段,人際關係,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,安全學習環境
+SEL-056,UNESCO Education Equity,文化與公平,跨階段,社會覺察,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,公平
+SEL-057,UNESCO Family and Community,家庭合作,跨階段,社會覺察,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,家庭社區
+SEL-058,UNESCO Student Voice,教學策略,跨階段,負責任決定,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,學生聲音
+SEL-059,UNESCO Teacher Well-being,教師專業,跨階段,自我管理,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,教師福祉
+SEL-060,UNESCO School Leadership,政策與系統,跨階段,全校性實施,UNESCO,https://www.unesco.org/en/education,公開閱讀,待直接頁面查核,學校領導
+SEL-061,US ED SEL and Mental Health,政策與系統,跨階段,自我管理,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,已核對入口,政策與教師支持
+SEL-062,US ED Educator Support,教師專業,跨階段,教師自我覺察,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,教師資源
+SEL-063,US ED School Climate,政策與系統,跨階段,人際關係,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,學校氣候
+SEL-064,US ED Student Mental Health,政策與系統,跨階段,自我管理,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,轉介界線
+SEL-065,US ED Family Engagement,家庭合作,跨階段,社會覺察,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,親師合作
+SEL-066,US ED Trauma-informed Support,政策與系統,跨階段,自我管理,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,創傷知情
+SEL-067,US ED Positive School Culture,教學策略,跨階段,人際關係,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,正向文化
+SEL-068,US ED Professional Learning,教師專業,跨階段,教師自我覺察,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,專業學習
+SEL-069,US ED Equity and Belonging,文化與公平,跨階段,社會覺察,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,歸屬與公平
+SEL-070,US ED Implementation Examples,案例,跨階段,全校性實施,U.S. Department of Education,https://www.ed.gov/teaching-and-administration/educator-support/mental-health/social-emotional-learning,公開閱讀,待直接頁面查核,政策案例
+SEL-071,教育部 SEL 政策與計畫,政策與系統,跨階段,全校性實施,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,需查核計畫版本與發布日期
+SEL-072,教育部 友善校園,政策與系統,跨階段,人際關係,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,友善校園政策
+SEL-073,教育部 學生輔導,政策與系統,跨階段,自我管理,教育部,https://depart.moe.edu.tw/ED2800/,公開閱讀,待國內頁面查核,輔導與轉介
+SEL-074,教育部 正向管教,教學策略,跨階段,人際關係,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,教師班級經營
+SEL-075,教育部 生命教育,教學策略,跨階段,負責任決定,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,議題融入
+SEL-076,教育部 品德教育,教學策略,跨階段,社會覺察,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,品德與關係
+SEL-077,教育部 教師專業發展,教師專業,跨階段,教師自我覺察,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,研習與專業社群
+SEL-078,教育部 特殊教育與融合,文化與公平,跨階段,社會覺察,教育部,https://depart.moe.gov.tw/ED2800/,公開閱讀,待國內頁面查核,融合教育
+SEL-079,教育部 家庭教育,家庭合作,跨階段,社會覺察,教育部,https://www.edu.tw/,公開閱讀,待國內頁面查核,親職與親師合作
+SEL-080,教育部 校園心理健康,政策與系統,跨階段,自我管理,教育部,https://depart.moe.gov.tw/ED2800/,公開閱讀,待國內頁面查核,心理健康支持
+SEL-081,國教院 十二年國教課綱,課綱對應,跨階段,跨領域,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,核心素養對照
+SEL-082,國教院 核心素養,框架,跨階段,負責任決定,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,自主行動與溝通互動
+SEL-083,國教院 議題融入,課綱對應,跨階段,社會覺察,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,生命／品德／家庭等議題
+SEL-084,國教院 生命教育議題,教學策略,國中／高中,負責任決定,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,價值思辨與選擇
+SEL-085,國教院 品德教育議題,教學策略,國小／國中,社會覺察,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,品德與行動
+SEL-086,國教院 家庭教育議題,家庭合作,跨階段,人際關係,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,家庭互動
+SEL-087,國教院 性別平等議題,文化與公平,跨階段,社會覺察,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,尊重差異
+SEL-088,國教院 人權教育議題,文化與公平,跨階段,社會覺察,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,權利與責任
+SEL-089,國教院 教育研究資料,研究與證據,跨階段,跨領域,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,研究摘要索引
+SEL-090,國教院 教材與教學資源,教學策略,跨階段,跨領域,國家教育研究院,https://www.naer.edu.tw/,公開閱讀,待國內頁面查核,教材索引
+SEL-091,全國教師在職進修課程,教師專業,跨階段,跨領域,教師在職進修網,https://www1.inservice.edu.tw/,依課程授權,待國內頁面查核,研習搜尋入口
+SEL-092,教師 SEL 入門研習,教師專業,跨階段,教師自我覺察,教師在職進修網,https://www1.inservice.edu.tw/,依課程授權,待課程查核,需以關鍵詞查詢
+SEL-093,教師情緒與壓力調節研習,教師專業,跨階段,自我管理,教師在職進修網,https://www1.inservice.edu.tw/,依課程授權,待課程查核,需確認主辦單位
+SEL-094,班級經營與正向管教研習,教師專業,跨階段,人際關係,教師在職進修網,https://www1.inservice.edu.tw/,依課程授權,待課程查核,需確認內容與時數
+SEL-095,修復式實踐研習,教師專業,國中／高中,人際關係,教師在職進修網,https://www1.inservice.edu.tw/,依課程授權,待課程查核,需確認專業資格
+SEL-096,教師專業學習社群案例,案例,跨階段,全校性實施,教師在職進修網,https://www1.inservice.edu.tw/,依案例授權,待國內頁面查核,保存共備經驗
+SEL-097,縣市 SEL 推動計畫,政策與系統,跨階段,全校性實施,縣市教育局／處,https://www.edu.tw/,依發布單位授權,待逐縣市查核,需建立縣市來源表
+SEL-098,學校 SEL 行動研究,案例,跨階段,跨領域,大專校院／學校,https://www.naer.edu.tw/,依論文／作者授權,待研究查核,需記錄研究設計
+SEL-099,臺灣 SEL 教案與公開授課,教學策略,跨階段,跨領域,學校／教師社群,https://www.edu.tw/,依作者授權,待投稿與授權,不得未經同意重製
+SEL-100,臺灣 SEL 評量與教師反思工具,評量,跨階段,跨領域,師培／研究機構,https://www.naer.edu.tw/,依工具授權,待信效度查核,需標示適用限制
+
