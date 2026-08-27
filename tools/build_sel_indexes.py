@@ -72,7 +72,8 @@ def summary(row, mapped):
 
 resource_cards = []
 for r, mapped in zip(raw, out):
-    resource_cards.append({'resource_id':mapped['resource_id'], 'title':mapped['title'], 'abstract_summary':summary(r,mapped), 'resource_type':mapped['resource_type'], 'sel_core_competency':mapped['sel_core_competency'], 'education_stage':mapped['education_stage'], 'curriculum_108_issue':mapped['curriculum_108_issue'], 'source':mapped['source'], 'source_url':mapped['source_url'], 'verification_status':mapped['verification_status'], 'license_or_access':mapped['license_or_access'], 'notes':mapped['notes']})
+    medium = '純文獻與文字資料' if r['category'] in ('研究與證據','框架','課綱對應') else '影音與網站資源'
+    resource_cards.append({'resource_id':mapped['resource_id'], 'title':mapped['title'], 'abstract_summary':summary(r,mapped), 'medium':medium, 'resource_type':mapped['resource_type'], 'sel_core_competency':mapped['sel_core_competency'], 'education_stage':mapped['education_stage'], 'curriculum_108_issue':mapped['curriculum_108_issue'], 'source':mapped['source'], 'source_url':mapped['source_url'], 'verification_status':mapped['verification_status'], 'license_or_access':mapped['license_or_access'], 'notes':mapped['notes']})
 with open(os.path.join(PLAN, '18_SEL資源摘要索引.json'), 'w', encoding='utf-8') as f: json.dump(resource_cards, f, ensure_ascii=False, indent=2)
 core_competencies = [
  {'id':'self-awareness','name':'自我覺察','definition':'辨識自己的情緒、想法、價值、優勢與限制，理解它們如何影響行為與選擇。','teacher_focus':'協助學生說出感受與需要，辨識個人優勢，並建立安全的自我表達方式。','classroom_entry':'情緒詞彙、情緒簽到、優勢卡與學習反思。'},
