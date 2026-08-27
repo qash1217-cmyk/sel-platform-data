@@ -1,0 +1,31 @@
+name: Rebuild SEL classification indexes
+
+on:
+  push:
+    paths:
+      - 'SEL平台規劃/07_第一批100筆資源.csv'
+      - 'tools/build_sel_indexes.py'
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Build classification indexes
+        run: python tools/build_sel_indexes.py
+      - name: Upload generated indexes
+        uses: actions/upload-artifact@v4
+        with:
+          name: sel-classification-indexes
+          path: |
+            SEL平台規劃/12_SEL主分類索引.csv
+            SEL平台規劃/13_依資源類型索引.csv
+            SEL平台規劃/14_依SEL五大能力索引.csv
+            SEL平台規劃/15_依教育階段索引.csv
+            SEL平台規劃/16_108課綱對應索引.csv
+            SEL平台規劃/17_SEL分類索引.json
+
