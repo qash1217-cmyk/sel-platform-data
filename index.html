@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SEL 教師專業發展平台</title>
+  <style>
+    :root{--blue:#176b87;--ink:#243447;--muted:#62727d;--bg:#f5f8fa}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,"Microsoft JhengHei",sans-serif}
+    header{background:linear-gradient(120deg,#176b87,#2c91a0);color:white;padding:42px max(20px,calc((100% - 1100px)/2)) 36px}
+    main{max-width:1100px;margin:26px auto;padding:0 20px}.hero h1{margin:0 0 10px;font-size:32px}.hero p{margin:0;opacity:.92}
+    .toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:24px 0}.toolbar input{flex:1;min-width:220px;border:1px solid #d1dce2;border-radius:8px;padding:12px;font-size:15px}.toolbar button,.toolbar a{border:0;border-radius:8px;padding:12px 15px;text-decoration:none;cursor:pointer;font-size:14px}.primary{background:var(--blue);color:#fff}.light{background:#e8f1f4;color:#15546b}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:16px}.card{background:#fff;border:1px solid #dbe4ec;border-radius:12px;padding:20px;box-shadow:0 3px 12px #183b560c}.card h2{font-size:19px;margin:0 0 14px}.tag{display:inline-block;background:#edf5f7;color:#15546b;border-radius:18px;padding:7px 10px;margin:4px 3px;font-size:13px}.tag:hover{background:#d5ebf0}.count{font-size:28px;font-weight:700;color:var(--blue)}.meta{color:var(--muted);font-size:14px}.result{margin-top:20px}.resource{padding:12px 0;border-bottom:1px solid #e7edf0}.resource:last-child{border:0}.resource a{color:var(--blue);font-weight:600}.badge{font-size:12px;background:#fff3d6;color:#7d5b11;padding:3px 7px;border-radius:10px;margin-left:6px}
+  </style>
+</head>
+<body>
+  <header><div class="hero"><h1>SEL 教師專業發展平台</h1><p>整合社會情緒學習資源、教師專業成長、教學實踐與 108 課綱對應資訊。</p></div></header>
+  <main>
+    <div class="toolbar"><input id="q" placeholder="搜尋資源名稱或分類…"><button class="primary" id="search">搜尋資源</button><a class="light" href="SEL平台規劃/07_第一批100筆資源.csv" download>下載 100 筆資料</a><a class="light" href="SEL平台規劃/10_SEL圖表數據_APA7.docx">APA 7 報告</a></div>
+    <section class="grid" id="blocks"></section>
+    <section class="card result"><h2>資源查詢結果</h2><p class="meta" id="hint">請選擇分類標籤或輸入關鍵字。</p><div id="results"></div></section>
+  </main>
+  <script>
+    let index={};
+    const labels=[['依資源類型','依資源類型'],['依SEL五大核心能力','依SEL五大核心能力'],['依教育階段','依教育階段'],['108課綱相關資訊','108課綱相關資訊']];
+    const blocks=document.querySelector('#blocks'), results=document.querySelector('#results'), hint=document.querySelector('#hint');
+    function renderBlocks(){blocks.innerHTML=labels.map(([title,key])=>{const vals=Object.entries(index[key]||{});return `<article class="card"><h2>${title}</h2>${vals.map(([v,ids])=>`<button class="tag" data-filter="${v}">${v} <span>(${ids.length})</span></button>`).join('')}</article>`}).join('');document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>show(b.dataset.filter));}
+    async function load(){try{const r=await fetch('SEL平台規劃/17_SEL分類索引.json');index=await r.json();renderBlocks();}catch(e){blocks.innerHTML='<article class="card"><p>分類索引載入中，請稍後重新整理。</p></article>';}}
+    function show(term){hint.textContent=`目前篩選：${term}（請至主資料索引查看完整紀錄）`;const ids=[];for(const group of Object.values(index))for(const [k,v] of Object.entries(group))if(k===term)ids.push(...v);results.innerHTML=[...new Set(ids)].map(id=>`<div class="resource"><a href="SEL平台規劃/12_SEL主分類索引.csv">${id}</a><span class="badge">分類索引</span></div>`).join('')||'<p class="meta">沒有符合的索引。</p>';}
+    document.querySelector('#search').onclick=()=>show(document.querySelector('#q').value.trim());load();
+  </script>
+</body>
+</html>
+
