@@ -1,0 +1,16 @@
+{
+  "report_title": "SEL 第一批資源資料圖表摘要",
+  "apa_style": "APA 7",
+  "font": "標楷體",
+  "alignment": "左右對齊",
+  "source_file": "07_第一批100筆資源.csv",
+  "charts": [
+    {"id":"figure-1","title":"第一批資源之類型分布","data_source":"resource_type/category","result_note":"呈現第一批資源在框架、教學策略、教師專業、研究與證據、政策與系統等類型的配置，作為建庫結構平衡與後續補強的依據。"},
+    {"id":"figure-2","title":"第一批資源之來源分布","data_source":"source","result_note":"呈現國際與國內來源的比例，協助檢視平台是否同時具備國際理論、研究證據與臺灣教育現場資料。"},
+    {"id":"figure-3","title":"第一批資源之查核狀態","data_source":"verification_status","result_note":"區分已核對入口與待直接頁面、授權、研究或信效度查核的資源，避免將候選索引誤視為已完成審查的教材。"}
+  ],
+  "tables": [
+    {"id":"table-1","title":"第一批資源資料集概況","result_note":"本表提供建庫規模、來源與查核狀態的總覽，作為試點前資料治理與內容審查排程的基線。"}
+  ]
+}
+
